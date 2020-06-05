@@ -1,0 +1,11 @@
+.UserOutput{
+    text-align: center;
+    box-shadow: 0 2px 10px #ccc;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid green;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: honeydew;
+    width: 60%;
+}
